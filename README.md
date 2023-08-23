@@ -5,7 +5,8 @@ Prerequisites
 Before getting started, ensure you have the following prerequisites:
 1.	Basic understanding of Python programming.
 2.	Familiarity with bioinformatics concepts like DNA sequences, sequence alignment, and dynamic programming.
-Script Overview
+
+# Script Overview
 The script provided performs sequence alignment between two input sequences and prints the alignment matrix and the aligned sequences. Here's a brief overview of the script:
 1.	Import necessary libraries:
 a.	numpy (as np): Used to create and manipulate arrays efficiently.
@@ -36,7 +37,7 @@ Arrows represent:
 •	Two example sequences, reference and biocharm, are provided.
 •	The sequence_alignment function is called to perform sequence alignment.
 •	The aligned sequences are printed as output.
-How to Use the Script
+# How to Use the Script
 1.	Make sure you have Python installed on your system.
 2.	Copy and paste the provided script into a python mathar@octopus:~/tmp/seq_alignment3/5_align.py. Download it
 3.	Modify the reference and biocharm sequences according to your specific use case.
